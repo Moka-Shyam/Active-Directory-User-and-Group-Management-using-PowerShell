@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ### Contact
 
-For questions or further information, please contact [yourname@yourdomain.com](mailto:yourname@yourdomain.com).
+For questions or further information, please contact shyammoka239@gmail.com
 
 ---
 
